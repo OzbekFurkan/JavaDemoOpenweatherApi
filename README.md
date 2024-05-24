@@ -1,2 +1,1 @@
-# JavaDemoOpenweatherApi
-This is demo app that retrieve data from OpenWeather api
+You have to get an api key from OpenWeatherMap web site (free) and set your app id to config file in order to run this project. The field you have to put your app id is specified as YOUR_APP_ID in the config file. Once you set your config info, you can run this app. You should type the city name you want to get its weather condition and click the button.
